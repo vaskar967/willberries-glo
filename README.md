@@ -1,4 +1,4 @@
-# willberries-glo - Учебный проект в Glo Academy
+# willberries-glo -- Учебный проект в Glo Academy
 ### Выполнил прект: Карнеев Василий Петрович.
 ## В проекте использовались:
 - HTML
